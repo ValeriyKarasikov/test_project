@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# CMake's folders
+build
+
+# YouCompleteMe's config files
+.ycm_extra_conf.py
