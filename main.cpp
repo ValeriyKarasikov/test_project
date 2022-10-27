@@ -12,7 +12,6 @@ void kek()
   std::cout << "hello there!" << std::endl;
 }
 
-
 int main()
 {
   ::kek();
