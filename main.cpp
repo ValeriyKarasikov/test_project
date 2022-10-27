@@ -1,5 +1,8 @@
 #include <iostream>
-
+void func()
+{
+  std::cout<< "Ramil branch ";
+}
 int test(int buf)
 {
   buf=buf/2;
@@ -12,6 +15,7 @@ void kek()
   std::cout << "hello there!" << std::endl;
 }
 
+
 void func()
 {
   int x;
@@ -19,6 +23,7 @@ void func()
   std::cin >> x;
   std::cout << x << std::endl;
 }
+
 
 int main()
 {
