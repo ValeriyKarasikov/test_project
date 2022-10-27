@@ -1,5 +1,8 @@
 #include <iostream>
-
+void func()
+{
+  std::cout<< "Ramil branch ";
+}
 int test(int buf)
 {
   buf=buf/2;
