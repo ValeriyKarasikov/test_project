@@ -15,6 +15,7 @@ void kek()
 void func()
 {
   int x;
+  std::cout << "Enter the x: ";
   std::cin >> x;
   std::cout << x << std::endl;
 }
