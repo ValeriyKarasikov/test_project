@@ -14,6 +14,17 @@ void kek()
 {
   std::cout << "hello there!" << std::endl;
 }
+
+
+void func()
+{
+  int x;
+  std::cout << "Enter the x: ";
+  std::cin >> x;
+  std::cout << x << std::endl;
+}
+
+
 int main()
 {
   ::kek();
