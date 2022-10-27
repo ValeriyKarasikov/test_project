@@ -1,5 +1,12 @@
 #include <iostream>
 
+int test(int buf)
+{
+  buf=buf/2;
+  return buf;
+}
+
+
 void kek()
 {
   std::cout << "hello there!" << std::endl;
